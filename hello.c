@@ -7,7 +7,7 @@ int main()
 
     for(int i = 0; i * i < n; i++)
     {
-
+        // \(^ o ^)/
     }
 
     return 0;
