@@ -8,7 +8,9 @@ int main()
     cin >> n;
     bitset<5000> b(1);
 
-    for(int i = 0; i * i < n; i++)
+    vector<int> prime;
+
+    for(int i = 1; i * i <= n; i++)
     {
 
     }
